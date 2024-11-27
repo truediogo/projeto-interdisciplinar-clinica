@@ -1,0 +1,14 @@
+# ninja log v5
+1	173	1732731966624830102	CMakeFiles/clinica.dir/lib/validacoes.c.o	e4c63a12330f856
+1	64	1732732125270968670	build.ninja	137f1f54ae3b252d
+1	173	1732731966626982699	CMakeFiles/clinica.dir/aplicacao.c.o	63ccd5d0f1b6dec2
+0	173	1732731966624800227	CMakeFiles/clinica.dir/main.c.o	3d91d6dfe3397c92
+1	173	1732731966625095021	CMakeFiles/clinica.dir/lib/estrutura.c.o	f4e7e7482ade8fc3
+3	169	1732731477696378482	CMakeFiles/clinica.dir/lib/constantes.c.o	82d62c6bb4890106
+173	286	1732731966739369410	clinica	71204428f59d1563
+1	8	0	clean	ad90e366ad70d77b
+8	67	1732732137897183121	CMakeFiles/clinica.dir/lib/validacoes.c.o	e4c63a12330f856
+8	67	1732732137897159246	CMakeFiles/clinica.dir/main.c.o	3d91d6dfe3397c92
+8	68	1732732137897512415	CMakeFiles/clinica.dir/lib/estrutura.c.o	f4e7e7482ade8fc3
+8	69	1732732137899600303	CMakeFiles/clinica.dir/aplicacao.c.o	63ccd5d0f1b6dec2
+69	109	1732732137938994594	clinica	71204428f59d1563

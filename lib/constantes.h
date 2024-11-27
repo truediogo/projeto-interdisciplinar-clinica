@@ -1,0 +1,9 @@
+#ifndef CONSTANTES_H
+#define CONSTANTES_H
+
+#define MAX_NOME 100
+#define MAX_ENDERECO 200
+#define MAX_TELEFONE 20
+#define MAX_EMAIL 100
+
+#endif //CONSTANTES_H

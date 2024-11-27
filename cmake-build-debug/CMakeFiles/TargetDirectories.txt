@@ -1,0 +1,3 @@
+/Users/diogo.silva/CLionProjects/clinica/cmake-build-debug/CMakeFiles/clinica.dir
+/Users/diogo.silva/CLionProjects/clinica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diogo.silva/CLionProjects/clinica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
