@@ -3,7 +3,6 @@
 
 #include "lib/estrutura.h"
 #include "lib/paciente.h"
-#include "lib/validacoes.h"
 
 int salvarPaciente(Paciente* paciente);
 Paciente lerPaciente(int num_registro);
